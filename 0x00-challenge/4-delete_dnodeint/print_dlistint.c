@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "lists.h"
+#include "list.h"
 
 /**
  * print_dlistint - Prints a doubly linkedlist of integers
